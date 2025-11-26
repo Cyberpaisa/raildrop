@@ -8,8 +8,11 @@
     "test": "hardhat test",
     "deploy:fuji": "hardhat run scripts/deploy.ts --network avalancheFuji",
     "deploy:mainnet": "hardhat run scripts/deploy.ts --network avalanche",
+    "check:balance": "hardhat run scripts/check-balance.ts --network avalancheFuji",
+    "interact": "hardhat run scripts/interact.ts --network avalancheFuji",
     "verify": "hardhat verify",
-    "clean": "hardhat clean"
+    "clean": "hardhat clean",
+    "demo": "open demo.html"
   },
   "keywords": [
     "blockchain",
