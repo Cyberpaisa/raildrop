@@ -1,10 +1,17 @@
 # 🧱 RailDrop - Interactive Payment Splitter
 
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.20-363636?logo=solidity)](https://soliditylang.org/)
+[![Avalanche](https://img.shields.io/badge/Avalanche-E84142?logo=avalanche&logoColor=white)](https://www.avax.network/)
+[![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?logo=hardhat&logoColor=black)](https://hardhat.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 Split bills with crypto. Settle in fiat instantly.
 
-**Powered by Rail + Avalanche**
+**Powered by [Rail](https://rail.io) + [Avalanche](https://www.avax.network/)**
 
 ---
+
 
 ## 🎯 Concepto
 
